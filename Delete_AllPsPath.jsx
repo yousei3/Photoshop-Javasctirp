@@ -1,1 +1,0 @@
-activeDocument.pathItems.removeAll();
